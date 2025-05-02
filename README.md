@@ -2,6 +2,8 @@
 
 Este é um projeto simples em Python que simula operações bancárias básicas, como saques, depósitos e visualização de extrato. Ele utiliza a biblioteca `pandas` para armazenar e exibir o histórico de transações.
 
+[Código](https://github.com/fzta492/dio_sistema_bancario/blob/main/banco.py)
+
 ## Funcionalidades
 
 * **Sacar:** Permite realizar saques com as seguintes restrições:
