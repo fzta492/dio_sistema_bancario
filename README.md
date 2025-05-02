@@ -15,12 +15,13 @@ Este é um projeto simples em Python que simula operações bancárias básicas,
 
 ## Como Usar
 
-1.  **Pré-requisitos:** Certifique-se de ter o Python instalado em seu sistema. Além disso, a biblioteca `pandas` precisa estar instalada. Caso não esteja, você pode instalá-la usando o pip:
+1.  **Pré-requisitos** <br>
+   Certifique-se de ter o Python instalado em seu sistema. Além disso, a biblioteca `pandas` precisa estar instalada. Caso não esteja, você pode instalá-la usando o pip:
     ```bash
     pip install pandas
     ```
 
-2.  **Execução:**
+3.  **Execução** <br>
     * Salve o código Python em um arquivo (por exemplo, `banco.py`).
     * Abra o terminal ou prompt de comando, navegue até o diretório onde você salvou o arquivo e execute o script com o comando:
         ```bash
@@ -28,7 +29,8 @@ Este é um projeto simples em Python que simula operações bancárias básicas,
         ```
     * O programa iniciará automaticamente.
 
-3.  **Interação:** O programa exibirá um menu com as opções disponíveis:
+4.  **Interação** <br>
+   O programa exibirá um menu com as opções disponíveis:
     ```
     ====== Operação ======
 
